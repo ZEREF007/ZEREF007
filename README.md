@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiva Raj Bhatt</h1>
+<h1 align="center">Hi 👋 I'm Shiva Raj Bhatt</h1>
 <h3 align="center">A passionate Machine Learninig Engineer from Hong Kong</h3>
 
 - 🔭 I’m currently working on [AI Stock Price PredictorV1.01](https://github.com/ZEREF007/AI_Stock_Price_PredictorV1.01)
